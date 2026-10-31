@@ -1,36 +1,19 @@
-###AI Group Assignment 2
+Artificial Intelligence – Group Assignment 2
 
-This repository contains the implementation and documentation for Artificial Intelligence – Group Assignment 2.
+Indian Institute of Technology Bhilai
 
-###Group Members
-
-S. No.
-
-Name
-
-1
+Group Members
 
 Srijana Bhowmik
 
-2
-
 Dange Pooja Sanjay
-
-3
 
 Sharshita Agrawal
 
-4
-
 Kumkum Harma
-
-5
 
 Harshita Sharma
 
 Assignment Overview
 
-The assignment consists of three problem statements involving the application of Artificial Intelligence concepts and techniques.
-
-Each problem has its own directory containing the relevant source code, screenshots, and documentation.
-
+This repository contains the implementation and solutions for Artificial Intelligence Group Assignment 2. It includes source code, screenshots, and documentation for all three problem statements.
