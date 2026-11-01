@@ -8,7 +8,7 @@
 
 1. Srijana Bhowmik
 2. Dange Pooja Sanjay
-3. Sharshita Agrawal
+3. Harshita Agrawal
 4. Kumkum Harma
 5. Harshita Sharma
 
