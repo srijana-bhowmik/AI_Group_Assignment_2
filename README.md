@@ -16,4 +16,4 @@
 
 ## Assignment Overview
 
-This repository contains the solutions and implementations for Artificial Intelligence Group Assignment 2. It includes source code, experimental results, screenshots, and documentation for all three problem statements.
+This repository contains the solutions and implementations for Artificial Intelligence Group Assignment 2. It includes source code and documentation for all three problem statements.
